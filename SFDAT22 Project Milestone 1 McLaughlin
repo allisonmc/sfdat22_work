@@ -1,0 +1,25 @@
+Data Science Final Project Ideas
+
+
+1. I'd like to use San Francisco crime data and have a couple of different ideas for what I'd like to predict. 
+
+My hypothesis is that some combination of the type of incident, location of incident, time of incident and some sort of characteristic of the people involved dictate how likely it is that the incident becomes violent. I got the idea from an old study that revealed that police are most often injured when responding to domestic disturbances compared to all other incidents. I would like to use SF crime data to run a similar analysis to predict how likely it is that a police officer will use force or be injured (or some other result).  I am curious about both the result for the responding officer(s) as well as the people involved – ie how likely the people are to be injured or arrested. I kind of assume there i
+
+My other idea using the same data comes from a kaggle contest to predict the category of crime given the time of day and location in the city. The contest provides several years of crime data by location in San Francisco. 
+
+Data Ideas: Easy to get CSVs of crime data from city website and crime map 
+https://www.kaggle.com/c/sf-crime
+http://spotcrime.com/ca/san+francisco
+https://data.sfgov.org/data?category=Public%20Safety
+
+2. Beer Recommendations: I think it would be interesting to get data about the different attributes of beer that describe how it tastes and combine that with beer ratings data from somewhere like untapped. The end goal would be to build a recommendation engine by figuring out what taste attributes are most important to the drinker. I worry about how to make this nuanced and potentially getting the rating data. 
+
+Data Ideas:
+Untappd has a lot of data about people's preferences, but I’m not sure that I could get it 
+https://www.brewersassociation.org/statistics/by-state/
+
+3. My third idea is to use fitness data (ideally randomized fitbit data with step counts) and correlate that with walk scores, but I am really unsure if I will be able to get fitbit (or similar) data with location of the user. 
+
+Data Ideas:
+https://www.walkscore.com/
+Fitbit, Misfit, Apple, Strava (or some other app where users add their step counts)
